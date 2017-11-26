@@ -11,6 +11,6 @@
   * [JVM 内存区域划分](jvm/jvm-memory-area.md)
   * [类加载](jvm/class-loader.md)
 * [J2EE](j2ee.md)
-  * MVC
+  * [MVC](j2ee/mvc.md)
   * ORM
 
