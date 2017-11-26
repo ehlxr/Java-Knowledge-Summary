@@ -14,4 +14,5 @@
   * [MVC](j2ee/mvc.md)
   * [ORM](j2ee/orm.md)
 * [data-structures-and-algorithm](data-structures-and-algorithm.md)
+  * [Data Structures](data-structures-and-algorithm/data-structures.md)
 
