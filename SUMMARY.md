@@ -19,7 +19,7 @@
 * [计算机网络](computer-networks.md)
 * [database](database.md)
 * [java web](java-web.md)
-* design pattern
+* [design pattern](design-pattern.md)
 * Linux
 * os
 * Regular Expression
