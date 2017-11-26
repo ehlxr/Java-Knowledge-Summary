@@ -22,5 +22,5 @@
 * [design pattern](design-pattern.md)
 * [Linux](linux.md)
 * [os](os.md)
-* Regular Expression
+* [Regular Expression](regular-expression.md)
 
