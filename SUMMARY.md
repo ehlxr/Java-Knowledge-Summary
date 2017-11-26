@@ -19,4 +19,5 @@
 * [计算机网络](computer-networks.md)
 * database
 * java web
+* design pattern
 
