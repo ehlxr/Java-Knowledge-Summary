@@ -19,7 +19,7 @@
 * [计算机网络](computer-networks/computer-networks.md)
 * [数据库](database/database.md)
 * [Java Web](java-web/java-web.md)
-* [设计模式](design-pattern.md)
+* [设计模式](design-pattern/design-pattern.md)
 * [Linux](linux.md)
 * [操作系统](os.md)
 * [正则表达式](regular-expression.md)
