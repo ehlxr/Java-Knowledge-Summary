@@ -8,4 +8,5 @@
   * [线程](java-base/thread.md)
   * [Socket](java-base/socket.md)
 * [JVM](jvm.md)
+  *  JVM Memory Area
 
