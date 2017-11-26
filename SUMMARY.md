@@ -20,7 +20,7 @@
 * [database](database.md)
 * [java web](java-web.md)
 * [design pattern](design-pattern.md)
-* Linux
+* [Linux](linux.md)
 * os
 * Regular Expression
 
