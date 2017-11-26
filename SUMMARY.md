@@ -22,5 +22,5 @@
 * [设计模式](design-pattern/design-pattern.md)
 * [Linux](linux/linux.md)
 * [操作系统](os/os.md)
-* [正则表达式](regular-expression.md)
+* [正则表达式](regular-expression/regular-expression.md)
 
