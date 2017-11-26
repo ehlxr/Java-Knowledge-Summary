@@ -12,5 +12,5 @@
   * [类加载](jvm/class-loader.md)
 * [J2EE](j2ee.md)
   * [MVC](j2ee/mvc.md)
-  * ORM
+  * [ORM](j2ee/orm.md)
 
