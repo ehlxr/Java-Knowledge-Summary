@@ -16,7 +16,7 @@
 * [数据结构与算法](data-structures-and-algorithm/data-structures-and-algorithm.md)
   * [数据结构](data-structures-and-algorithm/data-structures.md)
   * [算法](data-structures-and-algorithm/algorithm.md)
-* [计算机网络](computer-networks.md)
+* [计算机网络](computer-networks/computer-networks.md)
 * [数据库](database.md)
 * [Java Web](java-web.md)
 * [设计模式](design-pattern.md)
