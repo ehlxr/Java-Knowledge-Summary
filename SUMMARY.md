@@ -15,4 +15,5 @@
   * [ORM](j2ee/orm.md)
 * [data-structures-and-algorithm](data-structures-and-algorithm.md)
   * [Data Structures](data-structures-and-algorithm/data-structures.md)
+  * [Algorithm](data-structures-and-algorithm/algorithm.md)
 
