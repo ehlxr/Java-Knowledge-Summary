@@ -13,7 +13,7 @@
 * [J2EE](j2ee/j2ee.md)
   * [MVC](j2ee/mvc.md)
   * [ORM](j2ee/orm.md)
-* [data-structures-and-algorithm](data-structures-and-algorithm/data-structures-and-algorithm.md)
-  * [Data Structures](data-structures-and-algorithm/data-structures.md)
-  * [Algorithm](data-structures-and-algorithm/algorithm.md)
+* [数据结构与算法](data-structures-and-algorithm/data-structures-and-algorithm.md)
+  * [数据结构](data-structures-and-algorithm/data-structures.md)
+  * [算法](data-structures-and-algorithm/algorithm.md)
 
