@@ -31,7 +31,8 @@ clean:
 	rm -rf $(BOOK_OUTPUT)
 
 .PHONY: publish
-clean: clean build
+publish: clean build
+	chmod +x publish.sh
 	sh publish.sh
 
 .PHONY: help
