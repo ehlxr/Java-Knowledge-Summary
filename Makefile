@@ -32,7 +32,7 @@ clean:
 
 .PHONY: publish
 clean: clean build
-	./publish.sh
+	sh ./publish.sh
 
 .PHONY: help
 help:
