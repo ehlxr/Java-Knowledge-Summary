@@ -1,6 +1,6 @@
 {
     "title": "Java 知识总结",
-    "description": "记录 GitBook 的配置和一些插件的使用",
+    "description": "对 Java 开发过程中的一些知识做一个总结",
     "author": "wiliam",
     "output.name": "site",
     "language": "zh-hans",
