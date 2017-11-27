@@ -30,6 +30,10 @@ install:
 clean:
 	rm -rf $(BOOK_OUTPUT)
 
+.PHONY: publish
+clean: clean build
+	./publish.sh
+
 .PHONY: help
 help:
 	@echo "Help for make"
