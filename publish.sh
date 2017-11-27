@@ -1,3 +1,5 @@
+#!/bin/sh
+
 BOOK_OUTPUT=_book
 
 cd $BOOK_OUTPUT
