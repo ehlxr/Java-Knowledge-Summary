@@ -1,7 +1,7 @@
 {
     "title": "Java 知识总结",
     "description": "对 Java 开发过程中的一些知识做一个总结",
-    "author": "wiliam",
+    "author": "ehlxr",
     "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.2",
@@ -11,7 +11,7 @@
     },
     "links": {
         "sidebar": {
-            "我的主页": "http://wiliam.top"
+            "我的主页": "http://ehlxr.me"
         }
     },
     "plugins": [
@@ -47,7 +47,7 @@
             "showLevel": true
         },
         "disqus": {
-            "shortName": "gitbookuse"
+            "shortName": "ehlxr"
         },
         "prism": {
             "css": [
@@ -55,10 +55,10 @@
             ]
         },
         "github": {
-            "url": "https://github.com/wiliam2015/gitbook-use"
+            "url": "https://github.com/ehlxr/Java-Knowledge-Summary"
         },
         "github-buttons": {
-            "repo": "wiliam2015/gitbook-use",
+            "repo": "ehlxr/Java-Knowledge-Summary",
             "types": [
                 "star"
             ],
@@ -81,7 +81,7 @@
             ]
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © wiliam.me 2017",
+            "copyright": "Copyright © ehlxr.me 2017",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -90,7 +90,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/wiliam2015/gitbook-use/edit/master",
+            "base": "https://github.com/ehlxr/Java-Knowledge-Summary/edit/master",
             "label": "编辑本页"
         },        
         "anchor-navigation-ex": {
