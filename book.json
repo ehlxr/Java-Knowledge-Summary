@@ -81,7 +81,7 @@
             ]
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © ehlxr.me 2017 <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+            "copyright": "Copyright © ehlxr.me 2017 <p>Hosted by <a href='https://pages.coding.me'>Coding Pages</a></p>
 ",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
