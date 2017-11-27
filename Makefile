@@ -1,4 +1,4 @@
-BOOK_NAME := kubernetes-handbook
+BOOK_NAME := Java 知识总结
 BOOK_OUTPUT := _book
 
 .PHONY: build
